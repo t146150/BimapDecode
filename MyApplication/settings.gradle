@@ -1,0 +1,2 @@
+include ':app', ':imageeditor'
+rootProject.name='My Application'
